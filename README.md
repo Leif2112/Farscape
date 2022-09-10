@@ -1,6 +1,6 @@
 # Farscape
 
-Final year university project submitted in collaboration with Mr. *Bray Gallienne*.  
+Final year university project submitted in collaboration with Mr. *Bray Gallienne*. This repository contains code to automatically track and compute the rotation of sunspost. It accompanies our [paper](url).
 **Let's dive in!**
 
 ![alt text](https://github.com/Leif2112/Farscape/blob/main/project/images/cover%20image.png?raw=true)
@@ -35,6 +35,4 @@ mechanic on the flux tubes within a sunspot. This - when coupled with the rapid 
 umbral acceleration - may inject sufficient magnetic energy stresses into the corona for an 
 eruptive event to occur.
 
-## **HERE'S THE SCIENCE**
 
-If you're a particularly curious individual and want to learn more on the subject, here's my paper. (Tracking a Sunspot Dissertation Leif Tinwell.md)
