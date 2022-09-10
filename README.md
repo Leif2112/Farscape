@@ -1,7 +1,9 @@
 # Farscape
 
 Final year university project submitted in collaboration with Mr. *Bray Gallienne*.  
-Let's dive in!
+**Let's dive in!**
+
+![alt text](https://github.com/Leif2112/Farscape/blob/main/project/images/cover%20image.png?raw=true)
 
 ## **SUMMARY**
 Solar flares are energetic eruptive events that occur on the Sun's surface and are largely responsible for adverse space weather near Earth. 
