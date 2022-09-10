@@ -35,6 +35,6 @@ mechanic on the flux tubes within a sunspot. This - when coupled with the rapid 
 umbral acceleration - may inject sufficient magnetic energy stresses into the corona for an 
 eruptive event to occur.
 
-## **HERE'S THE SCIENCE**[Tracking a Sunspot Dissertation Leif Tinwell.pdf](https://github.com/Leif2112/Farscape/files/9539338/Tracking.a.Sunspot.Dissertation.Leif.Tinwell.pdf)
+## **HERE'S THE SCIENCE**
 
-If you're a particularly curious individual and want to learn more on the subject, here's my paper. (project/Words/Tracking a Sunspot Dissertation Leif Tinwell.pdf)
+If you're a particularly curious individual and want to learn more on the subject, here's my paper. (Tracking a Sunspot Dissertation Leif Tinwell.md)
