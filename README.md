@@ -36,4 +36,4 @@ umbral acceleration - may inject sufficient magnetic energy stresses into the co
 eruptive event to occur.
 
 ## **HERE'S THE SCIENCE**
-If you're a particularly curious individual and want to learn more on the subject, here's my paper.(Words/Tracking a Sunspot Dissertation Leif Tinwell.pdf)
+If you're a particularly curious individual and want to learn more on the subject, here's my paper.(project/Words/)
