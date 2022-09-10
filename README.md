@@ -39,3 +39,6 @@ eruptive event to occur.
 
 - [ ] Sort python scripts
 - [ ] Clean up code to use classes and files
+- [ ] State libraries used (ie. SunPi)
+
+
