@@ -36,6 +36,8 @@ mechanic on the flux tubes within a sunspot. This - when coupled with the rapid 
 umbral acceleration - may inject sufficient magnetic energy stresses into the corona for an 
 eruptive event to occur.
 
+![alt text](https://github.com/Leif2112/Farscape/blob/main/AR2939PUR.png?raw=true)
+
 
 - [ ] Sort python scripts
 - [ ] Clean up code to use classes and files
