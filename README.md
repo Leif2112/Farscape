@@ -34,3 +34,6 @@ the umbra and penumbra are yet to be understood correctly. It may constitute som
 mechanic on the flux tubes within a sunspot. This - when coupled with the rapid independent
 umbral acceleration - may inject sufficient magnetic energy stresses into the corona for an 
 eruptive event to occur.
+
+## **HERE'S THE SCIENCE**
+If you're a particularly curious individual and want to learn more on the subject, here's my paper.(Words/Tracking a Sunspot Dissertation Leif Tinwell.pdf)
