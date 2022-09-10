@@ -1,6 +1,6 @@
 # Farscape
 
-Final year university project submitted in collaboration with Mr. *Bray Gallienne*. This repository contains code to automatically track and compute the rotation of sunspots. It accompanies our [paper](url).
+Final year university project submitted in collaboration with Mr. *Bray Gallienne*. This repository contains code to automatically track and compute the rotation of sunspots. It accompanies our [paper]([url](https://github.com/Leif2112/Farscape/blob/main/project/Words/Tracking%20a%20Sunspot%20Dissertation%20Leif%20Tinwell.pdf)).
 
 **Let's dive in!**
 
